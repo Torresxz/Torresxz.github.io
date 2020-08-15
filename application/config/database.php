@@ -76,12 +76,12 @@ $query_builder = TRUE;
 $db['default'] = array(
 	'dsn'	=> '',
 	'hostname' => 'localhost',
-	'username' => 'id14226569_root',
-	'password' => '!Realmadrid11',
+	'username' => 'root',
+	'password' => 'realmadrid11',
 
-	'database' => 'id14226569_imec2',
+	'database' => 'imec2',
 
-	'database' => 'id14226569_imec2',
+	'database' => 'imec2',
 
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
