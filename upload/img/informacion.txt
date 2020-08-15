@@ -1,0 +1,47 @@
+1.- Garantías: Calibración acreditada ante Perry Johnson, para dudas de su vigencia, consultar la página http://ft.www.pjlabs.com/search- accredited-labs. 
+2.- Nota: De acuerdo a la norma NMX-EC-17025-lMNC-2006 ISO(IEC 17025:2005), punto 510.4.4, AMEC no emite recomendación de aceptación o rechazo y no incluirá la fecha recomendada de la próxima calibración, en caso de requerir alguna anotación en específico, deberá manifestado por escrito. 
+3.- Para programar el servicio, es necesario enviar este formato firmado o enviar su orden de compra con los datos completos del instrumento, incluyendo clave interna, ubicación, nombre y dirección que aparecerán en el informe de calibración. 
+4.- Para realizar el servicio, es necesario que junto al equipo se incluyan baterías en buen estado de carga, conectores especiales, manual y software en caso de ser necesarios para su operación. 
+5.- En caso de que el equipo requiera ajuste, el cliente debe proporcionar el manual del equipo, de no contar con el equipo será calibrado en las condiciones que se encuentra. 
+5.- Los costos por revisión serán bonificados al aceptar la reparación. 
+7.-Para evitar situaciones no deseadas sobre los procesos productivos del cliente, personal de AIMEC NO OPERARA equipos del cliente y no se hará responsable de este, es responsabilidad del cliente de asignar un operador para operario en le calibración que realizara el personal de AIMEC. Ciertos servicios se pueden ofrecer en la planta del cliente, sin embargo, para calibraciones en planta del cliente no se pueden ofrecer las mismas incertidumbres como para calibración en nuestro laboratorio. Sus requerimientos deben estar indicados en el pedido. Los servicios de calibración en planta del cliente se programan para no exceder un determinado número de días planta. El cliente es responsable de Informar anticipadamente de todos los requisitos para que sea autorizada la entrada/salida a la planta de nuestro personal y es responsable de la coordinación interna requerida para no exceder el tiempo-planta destinado, LO contrario puede causar cargos adicionales por hospedaje, viáticos, cambio/cancelaciones de boletos de transportación y cargos por días-planta adicionales. 
+8.- La entrega de informes de calibración se hará en un periodo de 5 días hábiles a partir de la fecha de realización del servicio. 
+9.- Para servicios urgentes considerar un adicional del costo base del servicio. 
+10.- En de requerir alguna corrección en los informes causas ajenas a nosotros se cobrará una cuota de S 200_00 más IVA por cada informe. 
+11.- El servicio de calibración no incluye: mantenimiento o reparación de los instrumentos. 
+12.- En caso de que el instrumento requiera ajuste mayor, se considera un 30% adicional del costo base de la calibración. Esta operación requiere de una autorización por escrito por parte del cliente y suministro del manual de operación. 
+13, En caso de que el instrumento no se pueda calibrar cualquier causa ajena a AMEC se cobrará un 50% del costo base de la calibración por concepto de verificación del instrumento. 
+14, En los servicios de calibración se haré entrega de informe de calibración y etiqueta, además de la carta de trazabilidad de los equipos patrón. 
+15, En caso de cancelación del pedido por causas ajenas a Laboratorio AIMEC, se cobrará un 25% del total de su orden de compra o pedido por concepto de penalización. 
+16.- El cliente al aceptar el servicio, acepta también las condiciones generales 
+Nota para Suministros: El tiempo o fecha da entrega se confirma con la recepción de su pedido u orden de compra. La demora de su respuesta a un eventual aviso de anomalía podrá resultar en la modificación de la fecha de entrega. 
+
+RECEPCIÓN Y ENTREGA DE INSTRUMENTOS 
+Cuando el equipo requiera estar nuestras instalaciones (rehabilitación o reparación) debe atenderse lo siguiente: 
+1.- Los instrumentos deberán estar identificaos (marca, número de serie, código 0 TAG) y mencionar su ubicación. 
+2.- Indicar si trabaja con alguna agencia de mensajería para poder regresar sus instrumentos, enviando su número de cuenta y carta de autorización del uso de la cuenta. 
+3.- Los instrumentos serán devueltos al cliente en las mismas condiciones de empaque en las cuales fue recibido por AIMEC por lo que el cliente deberá asegurarse que el empaque proteja debidamente a los instrumentos durante Su traslado. 
+4.- El costo para la devolución de los instrumentos desde AIMEC hasta las instalaciones del cliente por mensajería deberá ser cubierto por el cliente antes de realizarse la devolución. 
+5.- AIMEC NO se hace responsable por daños ocurridos a los instrumentos durante el traslado de los mismos hacia AIMEC o desde AIMEC a su destino, en caso de mensajería. 
+6.- AMEC asumirá como abandonados los instrumentos que no hayan sido reclamados en un plazo mayor de 30 días, y no se hará responsable de ningún instrumento que no haya Sido reclamado en ese periodo. 
+7.- La responsabilidad ante un eventual accidente con un equipo se limita hasta el valor de su servicio de calibración. 
+8.- El propietario del instrumento es responsable de establecer los intervalos de calibración. 
+9.- Cuando el equipo sea enviado por vía mensajería, se toman fotografías digitales y son enviadas al usuario al correo electrónico proporcionado a solicitud de parte para constatar que su equipo fue embarcado adecuadamente y en buen estado, conforme a Su pedido incluyendo sus accesorios. 
+10.- A recibir o entregar el material a través de mensajería, nuestra empresa NO se hace responsable del estado físico, robo, extravió y/o mal funcionamiento que pudieran presentar los equipos por un manejo inadecuado por parte de la mensajería. Ya que pueden presentar daños aparentes u ocultos detectables en las diferentes etapas del servicio. 
+
+ESTIMADO CLIENTE 
+Por medio del presente se informa que derivado de las reformas fiscales en materia de CFDI versión 3.3, así como la nueva obligación que tienen degenerar el XML de complemento del pago en la versión 1.0, y con la finalidad de dar cumplimiento con lo establecido en el artículo 29-A 
+Del código fiscal de la federación, así como las reglas: 2.7.5.4 y 2. 7.1.35 de la resolución miscelánea fiscal, publicada el 23 de diciembre de 2016, en la cual solicita se integre la siguiente información a cada comprobante fiscal digital por internet (CDFI).
+	•	Uso de CFDI
+	•	Forma de pago
+	•	Método de pago
+Para la emisión de un complemento de pago se solicita lo siguiente:
+	•	Nombre del banco
+	•	RFC del banco
+	•	Cuenta
+	•	Cuenta clave
+Por lo anterior, le solicitamos que en caso de generar alguna orden de compra de información solicitada anteriormente sajón que en la misma para incluirse
+Esperando que el contenido de la presente a su utilidad, me despido de usted que pronto a sus órdenes para cualquier duda o aclaración
+Atentamente
+C. P. Gabriela Hernández Durán
+Dirección administrativa de AIMEC

@@ -1,0 +1,5 @@
+Agregar Tabla Empleado en DB
+Campos
+Encargado_IdEncargado
+Nombre
+Apellido
